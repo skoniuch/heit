@@ -1,0 +1,43 @@
+body{
+    margin: 0;
+    padding: 0;
+    float: none;
+    width: 1200px;
+    height: 859;
+}
+#gora{
+    background: black;
+    width: 100%;
+    height: 125px;
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    float: left;
+}
+.jeden{
+    
+    width: 300px;
+    height: 734px;
+    float: left;
+    color: black;
+    margin: 0;
+    padding: 0;
+}
+.dwa{
+    background: rgb(66, 65, 65);
+    font-size: 16px;
+    width: 300px;
+    height: 734px;
+    float: left;
+    color: white;
+    margin: 0;
+    padding: 0px;
+}
+.dwa ul li {
+    padding: 5px;
+}
+.obraz{
+    filter: grayscale(1);
+}
